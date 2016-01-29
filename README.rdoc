@@ -1,0 +1,11 @@
+== README
+
+SETUP
+
+  bundle install
+
+  rails server
+
+LOGIN
+
+  http://localhost:3000/refinery/
